@@ -1,0 +1,17 @@
+PODS:
+  - MXAutoLayout (2.1.0)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+
+DEPENDENCIES:
+  - MXAutoLayout
+  - SDWebImage
+
+SPEC CHECKSUMS:
+  MXAutoLayout: d81a9d04c97f50a53e59437c4122ad11b8e811d7
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+
+PODFILE CHECKSUM: 2000e10d2d08c0d8070068bd6912194d323a809c
+
+COCOAPODS: 1.0.1
